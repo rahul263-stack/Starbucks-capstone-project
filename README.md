@@ -94,7 +94,7 @@ profile.json
   ## Licence 
      apache licence 2.0
   ## Author 
-    Rahul Kumar
+    Kartikey  Shaurya 
   
   ## Acknowledgement 
      First of all thanks to Udacity for this wonderful oppertunity provided to work on something  
