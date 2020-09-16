@@ -1,6 +1,6 @@
 # Starbucks capstone Challenge 
 
-the link to the medium is https://medium.com/@quantum360ai/what-are-the-chances-that-you-will-respond-to-an-starbucks-offer-8e8a2eb51a61
+Medium blog link https://medium.com/@quantum360ai/what-are-the-chances-that-you-will-respond-to-an-starbucks-offer-8e8a2eb51a61
 
 Structure of the file is 
 ## Motivation 
